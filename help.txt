@@ -1,0 +1,10 @@
+(1) Enter the terminal
+(2) switch root user >> type 'sudo su' and type password for root user:
+    sudo su
+    [sudo ] password for user:
+    
+(2) go to dirctory:
+    cd kindlylinux
+(3) run kindlylinux script:
+    bash kindlylinux
+(4) choose option >> type number for option 
