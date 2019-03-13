@@ -4,7 +4,7 @@
     [sudo ] password for user:
     
 (2) go to dirctory:
-    cd kindlylinux
+    cd kindlylinux-master
 (3) run kindlylinux script:
     bash kindlylinux
 (4) choose option >> type number for option 
